@@ -1,3 +1,5 @@
+<!-- 🛡️ Cybersecurity & AI Developer GitHub Profile -->
+
 <!-- SEO Keywords: Cybersecurity, AI Tools Developer, Python, Rust, Privacy-First Defense Systems, Local Security, Cyber Defense Tools -->
 
 <p align="center">
@@ -8,86 +10,158 @@
 <h3 align="center">Cybersecurity & AI Tools Developer</h3>
 
 <p align="center">
-  <a href="mailto:alaamahmoudmohamed89@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"></a>
-  <a href="https://www.linkedin.com/in/alaa-mahmoud-mohamed-918aba378"><img src="https://skillicons.dev/icons?i=linkedin" width="40"></a>
-  <a href="https://github.com/alaat9080-svg"><img src="https://skillicons.dev/icons?i=github" width="40"></a>
-  <a href="https://www.coursera.org"><img src="https://skillicons.dev/icons?i=coursera" width="40"></a>
-  <a href="https://www.ibm.com"><img src="https://skillicons.dev/icons?i=ibm" width="40"></a>
+  <a href="mailto:alaamahmoudmohamed89@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/alaa-mahmoud-mohamed-918aba378"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"></a>
+  <a href="https://github.com/alaat9080-svg"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"></a>
+  <a href="https://www.coursera.org"><img src="https://skillicons.dev/icons?i=coursera" width="40" alt="Coursera"></a>
+  <a href="https://www.ibm.com"><img src="https://skillicons.dev/icons?i=ibm" width="40" alt="IBM"></a>
+  <a href="https://www.microsoft.com"><img src="https://skillicons.dev/icons?i=microsoft" width="40" alt="Microsoft"></a>
+  <a href="https://www.netacad.com"><img src="https://skillicons.dev/icons?i=cisco" width="40" alt="Cisco Networking Academy"></a>
+  <a href="https://about.google"><img src="https://skillicons.dev/icons?i=google" width="40" alt="Google"></a>
 </p>
 
 ---
 
 ### 🧩 About Me
-Independent cybersecurity developer specializing in AI-powered defensive systems and local security environments.  
-Transitioned from a professional security leadership background into building **lightweight, privacy-focused cybersecurity tools** that empower real users instead of depending on overpriced corporate systems.
+Independent cybersecurity developer specializing in **AI-powered defensive systems** and **local security environments**.  
+Former security supervisor, now creating **lightweight, privacy-first cybersecurity tools** to empower users rather than rely on expensive corporate solutions.
 
 ---
 
 ### 🎯 Career Objective
-To develop **transparent, locally-operated cybersecurity and AI defense tools** designed to detect, respond, and protect in real-time — with complete user privacy and zero cloud dependency.
+Develop **transparent, locally-operated cybersecurity & AI defense tools** that detect, respond, and protect in real-time — with **full privacy** and zero cloud dependency.
 
 ---
 
 ### 💡 Technical Skills
 - 🧠 AI-Based Threat Analysis & Response  
 - 🧩 Local Multi-Layer Defense Systems (Windows / Linux / Docker / VMs)  
-- ⚙️ Python & Structured Code Development  
+- ⚙️ Python, Rust & Structured Code Development  
 - 📊 Network Traffic Analysis & Automation  
 - 🧰 Performance Optimization & Resource Control  
 - 🧾 Secure Documentation & Identity Standardization  
 
 ---
 
-### 🏆 Courses & Certifications (Updated 7–8/2025)
+### 🏆 Courses & Certifications
 | Platform | Certification | Date |
 |-----------|----------------|------|
-| **Cisco Networking Academy** | Cybersecurity, Networking, Packet Tracer | 07/2025 |
-| **IBM SkillsBuild** | Cybersecurity Fundamentals | 07/2025 |
-| **LinkedIn Learning** | Microsoft Security Copilot, Threat Landscape | 08/2025 |
-| **Microsoft Learn** | Modern Defense Tools | 08/2025 |
-| **Google / Coursera** | Foundations of Cybersecurity | 06/2024 |
+| ![Cisco](https://skillicons.dev/icons?i=cisco) Cisco Networking Academy | Cybersecurity, Networking, Packet Tracer | 07/2025 |
+| ![IBM](https://skillicons.dev/icons?i=ibm) IBM SkillsBuild | Cybersecurity Fundamentals | 07/2025 |
+| ![LinkedIn](https://skillicons.dev/icons?i=linkedin) LinkedIn Learning | Microsoft Security Copilot, Threat Landscape | 08/2025 |
+| ![Microsoft](https://skillicons.dev/icons?i=microsoft) Microsoft Learn | Modern Defense Tools | 08/2025 |
+| ![Coursera](https://skillicons.dev/icons?i=coursera) Google/Coursera | Foundations of Cybersecurity | 06/2024 |
 
 ---
 
 ### 🧠 Projects
-| Project | Description | Link |
-|----------|--------------|------|
-| **Cyber Security Guard Pro** | Multi-layer defensive AI tool with automated reports and smart API integration | [GitHub Repository](https://github.com/alaat9080-svg/cyber-security-guard-pro) |
-| **CyberDefensePro** | Local environment integrating open-source security tools with intelligent monitoring agents | Private Build |
-| **SentryLite Assistant** | Minimal AI-powered assistant for local system defense and behavioral monitoring | In Development |
+| Project | Description | Status / Link |
+|----------|--------------|---------------|
+| **Cyber Security Guard Pro** | Multi-layer defensive AI tool with automated reports & smart API integration | ![GitHub stars](https://img.shields.io/github/stars/alaat9080-svg/cyber-security-guard-pro?style=social) [Repository](https://github.com/alaat9080-svg/cyber-security-guard-pro) |
+| **CyberDefensePro** | Local environment integrating open-source security tools with intelligent monitoring agents | 🔒 Private Build • [Request Access](mailto:alaamahmoudmohamed89@gmail.com) |
+| **SentryLite Assistant** | Minimal AI-powered assistant for local system defense & behavioral monitoring | 🛠 In Development |
 
 ---
 
 ### 🌐 Extended Description
-Cybersecurity today is shifting from **cloud dependence** to **local autonomy**.  
-My vision is to redefine how individuals and organizations protect themselves by merging **AI precision** with **on-device privacy**.
+Cybersecurity is shifting from **cloud dependence** to **local autonomy**.  
+I merge **AI precision** with **on-device privacy** to empower individuals and organizations.
 
-Through **structured modular coding**, I design systems that:
-- Operate independently of external servers.  
-- Learn and adapt from behavioral patterns.  
-- Defend critical processes before exploitation occurs.  
-- Maintain absolute data confidentiality and operational transparency.
+Systems are designed to:
+- Operate independently of external servers  
+- Learn and adapt from behavioral patterns  
+- Defend critical processes proactively  
+- Maintain full confidentiality and transparency  
 
-Each project is built around the principle:  
 > “Security should empower users — not monitor them.”
 
-These systems are being developed under the **Cyber Guard Platform**, a long-term initiative aiming to establish open, ethical, and intelligent cybersecurity environments.
+All projects are part of the **Cyber Guard Platform**, a long-term initiative for ethical, intelligent cybersecurity.
 
 ---
 
 ### 📬 Contact
 📧 Email: [alaamahmoudmohamed89@gmail.com](mailto:alaamahmoudmohamed89@gmail.com)  
 🔗 LinkedIn: [linkedin.com/in/alaa-mahmoud-mohamed-918aba378](https://www.linkedin.com/in/alaa-mahmoud-mohamed-918aba378)  
-💻 GitHub: [github.com/alaat9080-svg](https://github.com/alaat9080-svg)  
+💻 GitHub: [github.com/alaat9080-svg](https://github.com/alaat9080-svg)
 
 ---
 
-### 🇪🇬 بالعربية
-علاء محمود محمد — مطور أدوات أمن سيبراني تعتمد على الذكاء الاصطناعي، بخبرة ميدانية وإدارية سابقة في مجال الأمن والسلامة.  
-أعمل على بناء منظومات دفاعية محلية خفيفة تحافظ على خصوصية المستخدم وتوفر أمانًا حقيقيًا بدون اعتماد على السحابة أو التسويق التجاري.
+## 🛡️ النسخة العربية
 
----
+<h1 align="center">🛡️ علاء محمود محمد</h1>
+<h3 align="center">مطور أدوات الأمن السيبراني والذكاء الاصطناعي</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaat9080-svg&layout=compact&theme=transparent" alt="Top Languages" />
+  <a href="mailto:alaamahmoudmohamed89@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/alaa-mahmoud-mohamed-918aba378"><img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn"></a>
+  <a href="https://github.com/alaat9080-svg"><img src="https://skillicons.dev/icons?i=github" width="40" alt="GitHub"></a>
+  <a href="https://www.coursera.org"><img src="https://skillicons.dev/icons?i=coursera" width="40" alt="Coursera"></a>
+  <a href="https://www.ibm.com"><img src="https://skillicons.dev/icons?i=ibm" width="40" alt="IBM"></a>
+  <a href="https://www.microsoft.com"><img src="https://skillicons.dev/icons?i=microsoft" width="40" alt="Microsoft"></a>
+  <a href="https://www.netacad.com"><img src="https://skillicons.dev/icons?i=cisco" width="40" alt="Cisco Networking Academy"></a>
+  <a href="https://about.google"><img src="https://skillicons.dev/icons?i=google" width="40" alt="Google"></a>
 </p>
+
+---
+
+### 🧩 نبذة عني
+مطور مستقل متخصص في **أنظمة الدفاع بالذكاء الاصطناعي** و**الأمن المحلي**.  
+كنت مشرف أمن محترف، والآن أصمم **أدوات خفيفة وخصوصية أولًا** لتمكين المستخدمين الحقيقيين بدلاً من الاعتماد على حلول الشركات المكلفة.
+
+---
+
+### 🎯 الهدف المهني
+تطوير **أدوات دفاعية وذكاء اصطناعي شفافة وموضوعة محليًا** للكشف والاستجابة والحماية في الوقت الحقيقي مع **ضمان الخصوصية الكاملة** وعدم الاعتماد على السحابة.
+
+---
+
+### 💡 المهارات التقنية
+- 🧠 تحليل التهديدات واستجابة الذكاء الاصطناعي  
+- 🧩 أنظمة دفاع متعددة الطبقات (Windows / Linux / Docker / VMs)  
+- ⚙️ تطوير بايثون، Rust، وبرمجة منظمة  
+- 📊 تحليل حركة الشبكة وأتمتة العمليات  
+- 🧰 تحسين الأداء وإدارة الموارد  
+- 🧾 التوثيق الآمن ومعايير الهوية  
+
+---
+
+### 🏆 الدورات والشهادات
+| المنصة | الشهادة | التاريخ |
+|-----------|----------------|------|
+| ![Cisco](https://skillicons.dev/icons?i=cisco) Cisco Networking Academy | الأمن السيبراني، الشبكات، Packet Tracer | 07/2025 |
+| ![IBM](https://skillicons.dev/icons?i=ibm) IBM SkillsBuild | أساسيات الأمن السيبراني | 07/2025 |
+| ![LinkedIn](https://skillicons.dev/icons?i=linkedin) LinkedIn Learning | Microsoft Security Copilot و Threat Landscape | 08/2025 |
+| ![Microsoft](https://skillicons.dev/icons?i=microsoft) Microsoft Learn | أدوات الدفاع الحديثة | 08/2025 |
+| ![Coursera](https://skillicons.dev/icons?i=coursera) Google/Coursera | أساسيات الأمن السيبراني | 06/2024 |
+
+---
+
+### 🧠 المشاريع
+| المشروع | الوصف | الحالة / الرابط |
+|----------|--------------|----------------|
+| **Cyber Security Guard Pro** | أداة دفاعية متعددة الطبقات بالذكاء الاصطناعي مع تقارير أوتوماتيكية وواجهة API ذكية | ![GitHub stars](https://img.shields.io/github/stars/alaat9080-svg/cyber-security-guard-pro?style=social) [المستودع](https://github.com/alaat9080-svg/cyber-security-guard-pro) |
+| **CyberDefensePro** | بيئة محلية تدمج أدوات مفتوحة المصدر مع وكلاء مراقبة ذكية | 🔒 Build خاص • [طلب الوصول](mailto:alaamahmoudmohamed89@gmail.com) |
+| **SentryLite Assistant** | مساعد صغير بالذكاء الاصطناعي للدفاع المحلي ومراقبة السلوك | 🛠 قيد التطوير |
+
+---
+
+### 🌐 الوصف الموسع
+الأمن السيبراني يتحول من **الاعتماد على السحابة** إلى **الاستقلالية المحلية**.  
+رؤيتي دمج **دقة الذكاء الاصطناعي** مع **خصوصية الجهاز** لتمكين الأفراد والمؤسسات.
+
+النظام مصمم لي:
+- يعمل مستقلًا عن أي خوادم خارجية  
+- يتعلم ويتكيف وفقًا لأنماط السلوك  
+- يدافع عن العمليات الحرجة قبل الاستغلال  
+- يحافظ على السرية والشفافية الكاملة  
+
+> “يجب أن تمكّن أدوات الأمن المستخدمين، لا أن تراقبهم.”
+
+جميع المشاريع جزء من **منصة Cyber Guard**، مبادرة طويلة المدى لبناء بيئات أمنية أخلاقية وذكية.
+
+---
+
+### 📬 للتواصل
+📧 البريد الإلكتروني: [alaamahmoudmohamed89@gmail.com](mailto:alaamahmoudmohamed89@gmail.com)  
+🔗 لينكدإن: [linkedin.com/in/alaa-mahmoud-mohamed-918aba378](https://www.linkedin.com/in/alaa-mahmoud-mohamed-918aba378)  
+💻 GitHub: [github.com/alaat9080-svg](https://github.com/alaat9080-svg)
