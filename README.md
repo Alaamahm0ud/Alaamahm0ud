@@ -1,8 +1,8 @@
 <!-- ==================== HEADER ==================== -->
 <div align="center">
 
-<!-- ✅ Banner (Fixed) -->
-<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/banner.png" width="100%" alt="Alaa Mahmoud Banner"/>
+<!-- ✅ صورة البنر الرئيسية -->
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/ChatGPT%20Image%20Oct%2012%2C%202025%2C%2001_03_37%20PM.png" width="100%" alt="Alaa Mahmoud Banner"/>
 
 <h2>👋 Hi, I'm <span style="color:#00ADB5;">Alaa Mahmoud Mohamed</span></h2>
 
@@ -35,8 +35,8 @@
 ---
 
 ## 🧠 About Me
-Cybersecurity developer specializing in **AI-driven defensive systems** and **bilingual documentation**.  
-I build secure, open-source tools tailored for Arabic-speaking professionals — bridging human insight and machine learning in real-world threat defense.
+Cybersecurity developer specializing in AI-driven defensive systems and bilingual documentation.  
+I create secure, open-source tools tailored for Arabic-speaking professionals, bridging human insight and machine learning in threat defense.
 
 ---
 
@@ -94,17 +94,21 @@ I build secure, open-source tools tailored for Arabic-speaking professionals —
 ---
 
 ## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/Alaamahm0ud/Cyber-Guard-Pro">
-    <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/WhatsApp%20Image%202025-10-14%20at%2013.26.57_a89f78f6.jpg" width="310" alt="Cyber Guard Pro"/>
-  </a>
-  <a href="https://github.com/Alaamahm0ud/Security-AI-Agent">
-    <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/ChatGPT%20Image%20Oct%2012%2C%202025%2C%2001_03_37%20PM.png" width="310" alt="Security AI Agent"/>
-  </a>
-  <a href="https://github.com/Alaamahm0ud/DefenderX-AI">
-    <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/WhatsApp%20Image%202025-09-24%20at%2007.58.29_f0fb862f.jpg" width="310" alt="DefenderX AI"/>
-  </a>
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+
+<a href="https://github.com/Alaamahm0ud/Cyber-Guard-Pro">
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/WhatsApp%20Image%202025-10-14%20at%2013.26.57_a89f78f6.jpg" width="300" alt="Cyber Guard Pro" style="border-radius: 10px; box-shadow: 0px 2px 10px rgba(0,0,0,0.4);"/>
+</a>
+
+<a href="https://github.com/Alaamahm0ud/Security-AI-Agent">
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/ChatGPT%20Image%20Oct%2012%2C%202025%2C%2001_03_37%20PM.png" width="300" alt="Security AI Agent" style="border-radius: 10px; box-shadow: 0px 2px 10px rgba(0,0,0,0.4);"/>
+</a>
+
+<a href="https://github.com/Alaamahm0ud/AI-Defense-Suite">
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/WhatsApp%20Image%202025-10-12%20at%2009.57.49_6969cca7.jpg" width="300" alt="AI Defense Suite" style="border-radius: 10px; box-shadow: 0px 2px 10px rgba(0,0,0,0.4);"/>
+</a>
+
+</div>
 
 ---
 
@@ -127,11 +131,8 @@ I build secure, open-source tools tailored for Arabic-speaking professionals —
 
 <div align="center">
 
-<!-- ✅ Fixed snake animation -->
-<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+![Snake animation](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/output/github-contribution-grid-snake.svg)
 
-<br><br>
-
-⭐ <b>Building the future of cybersecurity — one secure system at a time.</b> ⭐
+⭐ Always learning — Always building ⭐
 
 </div>
