@@ -1,22 +1,19 @@
-<!-- ==================== HEADER ==================== -->
-<div style="background: linear-gradient(180deg, #0f1115 0%, #1a1f27 100%); padding: 30px 20px; border-radius: 15px;">
-
-<!-- ====== تأثيرات الحركة والتوهج ====== -->
+<!-- ==================== CSS ==================== -->
 <style>
-/* توهج ناعم نابض */
+/* ==== توهج نابض للبانر والصور ==== */
 @keyframes glowPulse {
-  0% { filter: drop-shadow(0 0 6px rgba(0,255,255,0.25)); }
+  0%, 100% { filter: drop-shadow(0 0 6px rgba(0,255,255,0.25)); }
   50% { filter: drop-shadow(0 0 22px rgba(0,255,255,0.85)); }
-  100% { filter: drop-shadow(0 0 6px rgba(0,255,255,0.25)); }
 }
 
-/* تأثير وميض ليزر متحرك */
+/* ==== تأثير ليزر متحرك فوق الصور ==== */
 @keyframes laserSweep {
-  0% { background-position: -150% 0; }
-  50% { background-position: 150% 0; }
-  100% { background-position: 150% 0; }
+  0% { background-position: -200% 0; }
+  50% { background-position: 200% 0; }
+  100% { background-position: 200% 0; }
 }
 
+/* ==== بانر الصورة الرئيسية ==== */
 .banner-glow {
   position: relative;
   display: inline-block;
@@ -27,17 +24,14 @@
 }
 
 .banner-glow:hover {
-  transform: scale(1.02);
+  transform: scale(1.05);
 }
 
-/* طبقة الليزر الشفافة فوق الصورة */
 .banner-glow::after {
   content: "";
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
   background: linear-gradient(
     120deg,
     transparent 30%,
@@ -50,7 +44,7 @@
   pointer-events: none;
 }
 
-/* توقيع نهائي احترافي */
+/* ==== توقيع نهائي متحرك ==== */
 .footer-signature {
   color: #00ADB5;
   font-weight: 600;
@@ -62,25 +56,29 @@
 }
 </style>
 
-<div align="center">
+<!-- ==================== HEADER ==================== -->
+<div style="background: linear-gradient(180deg, #0f1115 0%, #1a1f27 100%); padding: 30px 20px; border-radius: 20px;" align="center">
 
-  <!-- ======= توقيع رقمي (بانر رئيسي جديد) ======= -->
-  <div style="padding:10px; border-radius:16px; background: linear-gradient(90deg, #00ADB5, #00696E); box-shadow: 0 0 28px rgba(0,173,181,0.65); display:inline-block; width:100%; max-width:1100px;">
+  <!-- ======= بانر توقيع رقمي متحرك ======= -->
+  <div style="padding:12px; border-radius:20px; background: linear-gradient(90deg, #00ADB5, #00696E); box-shadow: 0 0 32px rgba(0,173,181,0.65); display:inline-block; width:100%; max-width:1100px;">
     <div class="banner-glow">
       <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/alaa10.png"
            width="85%" alt="Alaa Mahmoud Digital Signature Banner"
-           style="display:block; border-radius:12px;"/>
+           style="display:block; border-radius:15px;"/>
     </div>
   </div>
 
-  <h2 style="color:#00ADB5; margin-top: 18px;">👋 Hi, I'm <span style="color:#00E0C7;">Alaa Mahmoud Mohamed</span></h2>
+  <!-- ======= التعريف الشخصي ======= -->
+  <h2 style="color:#00ADB5; margin-top: 20px;">👋 Hi, I'm <span style="color:#00E0C7;">Alaa Mahmoud Mohamed</span></h2>
 
+  <!-- ======= تأثير الكتابة ======= -->
   <a href="https://readme-typing-svg.demolab.com/demo/?lines=Cybersecurity+Analyst;AI+Tools+Developer;Ethical+Hacker;Defensive+Systems+Engineer" target="_blank">
     <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;AI+Tools+Developer;Ethical+Hacker;Defensive+Systems+Engineer" alt="Typing Animation" />
   </a>
 
   <p style="color:#cfd8dc; margin-top:10px;">📍 Cairo, Egypt  &nbsp; • &nbsp; 💬 “Security through Knowledge — Knowledge through Sharing”</p>
 
+  <!-- ======= روابط التواصل ======= -->
   <p>
     <a href="https://www.linkedin.com/in/alaa-mahmoud-/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -93,52 +91,48 @@
     </a>
   </p>
 
-</div>
+  <hr style="opacity:0.28; margin-top:22px;">
 
-<hr style="opacity:0.28; margin-top:22px;">
+  <!-- ======= نبذة عني ======= -->
+  ## 🧠 About Me
+  Cybersecurity developer specializing in AI-driven defensive systems and bilingual documentation.  
+  I create secure, open-source tools tailored for Arabic-speaking professionals, bridging human insight and machine learning in threat defense.
 
-## 🧠 About Me
-Cybersecurity developer specializing in AI-driven defensive systems and bilingual documentation.  
-I create secure, open-source tools tailored for Arabic-speaking professionals, bridging human insight and machine learning in threat defense.
+  <hr style="opacity:0.28;">
 
-<hr style="opacity:0.28;">
+  <!-- ======= التقنية ======= -->
+  ## ⚙️ Technical Stack
+  <div align="center">
+    ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
+    ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+    ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql)
+    ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  </div>
 
-## ⚙️ Technical Stack
-<div align="center">
+  <hr style="opacity:0.28;">
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  <!-- ======= المشاريع المميزة ======= -->
+  ## 🚀 Featured Projects
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG1.jpg" width="280" alt="Project 1" style="border-radius:15px; box-shadow:0 6px 16px rgba(0,0,0,0.45);"/>
+    <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg" width="330" alt="Main Project" style="margin: 0 15px; border-radius:20px; box-shadow:0 6px 20px rgba(0,173,181,0.55);"/>
+    <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png" width="280" alt="Project 3" style="border-radius:15px; box-shadow:0 6px 16px rgba(0,0,0,0.45);"/>
+  </div>
 
-</div>
+  <hr style="opacity:0.28;">
 
-<hr style="opacity:0.28;">
+  <!-- ======= التفاعل الشخصي ======= -->
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+    <h3 style="color:#00ADB5; font-weight:600; margin-top:12px;">⭐ Always Learning — Always Building ⭐</h3>
+    <sub style="color:gray;">Securing Tomorrow, One Line of Code at a Time.</sub>
 
-## 🚀 Featured Projects
-<div align="center">
-
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG1.jpg" width="280" alt="Project 1" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.45);"/>
-  
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg" width="330" alt="Main Project" style="margin: 0 15px; border-radius:15px; box-shadow:0 4px 20px rgba(0,173,181,0.55);"/>
-  
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png" width="280" alt="Project 3" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.45);"/>
-
-</div>
-
-<hr style="opacity:0.28;">
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
-  <h3 style="color:#00ADB5; font-weight:600; margin-top:12px;">⭐ Always Learning — Always Building ⭐</h3>
-  <sub style="color:gray;">Securing Tomorrow, One Line of Code at a Time.</sub>
-
-  <br><br>
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg" width="160" alt="CSG Logo" style="border-radius:15px; box-shadow:0 2px 10px rgba(0,0,0,0.4);"/>
-  <div class="footer-signature">Secured by CSG Framework — 2025</div>
-</div>
+    <br><br>
+    <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg" width="160" alt="CSG Logo" style="border-radius:20px; box-shadow:0 2px 12px rgba(0,0,0,0.4);"/>
+    <div class="footer-signature">Secured by CSG Framework — 2025</div>
+  </div>
 
 </div>
