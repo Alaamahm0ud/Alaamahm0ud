@@ -1,8 +1,8 @@
 <!-- ==================== HEADER ==================== -->
 <div align="center">
 
-<!-- ✅ صورة البنر الرئيسية -->
-<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/ChatGPT%20Image%20Oct%2012%2C%202025%2C%2001_03_37%20PM.png" width="100%" alt="Alaa Mahmoud Banner"/>
+<!-- ✍️ التوقيع الرقمي بدل البانر -->
+<img src="./images/Copilot_20251004_220810.png" width="220" alt="Alaa Mahmoud Signature" style="margin-top: 20px; opacity: 0.85;"/>
 
 <h2>👋 Hi, I'm <span style="color:#00ADB5;">Alaa Mahmoud Mohamed</span></h2>
 
@@ -123,16 +123,4 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 </a>
 <a href="mailto:alaa.m.egypt@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/output/github-contribution-grid-snake.svg)
-
-⭐ Always learning — Always building ⭐
-
-</div>
+</a
