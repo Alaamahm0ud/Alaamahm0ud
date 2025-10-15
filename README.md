@@ -1,15 +1,15 @@
 <!-- ==================== HEADER ==================== -->
 
-<div align="center">
+<div align="center" style="background: linear-gradient(90deg, #0f2027, #203a43, #2c5364); padding: 25px; border-radius: 12px; box-shadow: 0px 4px 20px rgba(0,0,0,0.5);">
 
 <!-- ✅ صورة البانر الجديدة بالتوقيع الرقمي -->
-<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/ALAA.png" width="100%" alt="Alaa Mahmoud Digital Signature Banner"/>
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/ALAA.png" width="100%" alt="Alaa Mahmoud Digital Signature Banner" style="border-radius: 10px; box-shadow: 0px 4px 18px rgba(0,0,0,0.45);"/>
 
 <!-- شعار مركزي للهُوية البصرية -->
 <br>
-<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg" width="180" alt="CSG Logo" style="border-radius: 15px; box-shadow: 0px 2px 10px rgba(0,0,0,0.4);"/>
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg" width="180" alt="CSG Logo" style="border-radius: 15px; box-shadow: 0px 2px 10px rgba(0,0,0,0.4); margin-top: 15px;"/>
 
-<h2>👋 Hi, I'm <span style="color:#00ADB5;">Alaa Mahmoud Mohamed</span></h2>
+<h2 style="color:#EEEEEE;">👋 Hi, I'm <span style="color:#00ADB5;">Alaa Mahmoud Mohamed</span></h2>
 
 <a href="https://readme-typing-svg.demolab.com/demo/?lines=Cybersecurity+Analyst;AI+Tools+Developer;Ethical+Hacker;Defensive+Systems+Engineer" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;AI+Tools+Developer;Ethical+Hacker;Defensive+Systems+Engineer" alt="Typing Animation" />
@@ -97,21 +97,23 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 
 </div>
 
+<hr style="border: none; height: 3px; background: linear-gradient(90deg, transparent, #00ADB5, transparent); margin: 40px 0;">
+
 ---
 
 ## 🚀 Featured Projects
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
 
 <a href="https://github.com/Alaamahm0ud/Cyber-Guard-Pro">
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png" width="300" alt="Cyber Guard Pro" style="border-radius: 12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.45);"/>
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png" width="300" alt="Cyber Guard Pro" style="border-radius: 15px; backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.2); box-shadow: 0px 4px 12px rgba(0,0,0,0.45);"/>
 </a>
 
 <a href="https://github.com/Alaamahm0ud/Security-AI-Agent">
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.03.png" width="300" alt="Security AI Agent" style="border-radius: 12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.45);"/>
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.03.png" width="300" alt="Security AI Agent" style="border-radius: 15px; backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.2); box-shadow: 0px 4px 12px rgba(0,0,0,0.45);"/>
 </a>
 
 <a href="https://github.com/Alaamahm0ud/AI-Defense-Suite">
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.02.png" width="300" alt="AI Defense Suite" style="border-radius: 12px; box-shadow: 0px 4px 12px rgba(0,0,0,0.45);"/>
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.02.png" width="300" alt="AI Defense Suite" style="border-radius: 15px; backdrop-filter: blur(8px); border: 1px solid rgba(255,255,255,0.2); box-shadow: 0px 4px 12px rgba(0,0,0,0.45);"/>
 </a>
 
 </div>
@@ -139,6 +141,7 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 
 ![Snake animation](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/output/github-contribution-grid-snake.svg)
 
-⭐ Always learning — Always building ⭐
+<h3 style="color:#00ADB5; font-weight:600;">⭐ Always Learning — Always Building ⭐</h3>
+<sub style="color:gray;">Securing Tomorrow, One Line of Code at a Time.</sub>
 
 </div>
