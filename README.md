@@ -1,22 +1,64 @@
 <!-- ==================== HEADER ==================== -->
 <div style="background: linear-gradient(180deg, #0f1115 0%, #1a1f27 100%); padding: 30px 20px; border-radius: 15px;">
 
+<!-- ====== تأثيرات الحركة والتوهج ====== -->
+<style>
+/* توهج ناعم نابض */
+@keyframes glowPulse {
+  0% { filter: drop-shadow(0 0 6px rgba(0,255,255,0.25)); }
+  50% { filter: drop-shadow(0 0 22px rgba(0,255,255,0.85)); }
+  100% { filter: drop-shadow(0 0 6px rgba(0,255,255,0.25)); }
+}
+
+/* تأثير وميض ليزر متحرك */
+@keyframes laserSweep {
+  0% { background-position: -150% 0; }
+  50% { background-position: 150% 0; }
+  100% { background-position: 150% 0; }
+}
+
+.banner-glow {
+  position: relative;
+  display: inline-block;
+  animation: glowPulse 4s infinite ease-in-out;
+  transition: transform 0.4s ease;
+}
+
+.banner-glow:hover {
+  transform: scale(1.02);
+}
+
+/* طبقة الليزر الشفافة فوق الصورة */
+.banner-glow::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    120deg,
+    transparent 30%,
+    rgba(255,255,255,0.25) 50%,
+    transparent 70%
+  );
+  background-size: 200% 100%;
+  animation: laserSweep 6s infinite linear;
+  border-radius: 12px;
+  pointer-events: none;
+}
+</style>
+
 <div align="center">
 
-  <!-- ======= توقيع رقمي متوهج ======= -->
-  <div style="padding:10px; border-radius:16px; background: linear-gradient(90deg, #00ADB5, #00696E); box-shadow: 0 0 32px rgba(0,173,181,0.65); display:inline-block; width:100%; max-width:1100px;">
-    <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/alaa10.png"
-         width="85%" alt="Alaa Mahmoud Digital Signature Banner"
-         style="display:block; border-radius:12px; animation: glowPulse 4s infinite ease-in-out;"/>
+  <!-- ======= توقيع رقمي (بانر رئيسي جديد) ======= -->
+  <div style="padding:10px; border-radius:16px; background: linear-gradient(90deg, #00ADB5, #00696E); box-shadow: 0 0 28px rgba(0,173,181,0.65); display:inline-block; width:100%; max-width:1100px;">
+    <div class="banner-glow">
+      <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/alaa10.png"
+           width="85%" alt="Alaa Mahmoud Digital Signature Banner"
+           style="display:block; border-radius:12px;"/>
+    </div>
   </div>
-
-  <style>
-    @keyframes glowPulse {
-      0%   { filter: drop-shadow(0 0 6px rgba(0,255,255,0.25)); }
-      50%  { filter: drop-shadow(0 0 20px rgba(0,255,255,0.75)); }
-      100% { filter: drop-shadow(0 0 6px rgba(0,255,255,0.25)); }
-    }
-  </style>
 
   <h2 style="color:#00ADB5; margin-top: 18px;">👋 Hi, I'm <span style="color:#00E0C7;">Alaa Mahmoud Mohamed</span></h2>
 
@@ -102,16 +144,13 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 <hr style="opacity:0.28;">
 
 ## 🚀 Featured Projects
-<div align="center" style="display:flex; justify-content:center; align-items:center; gap:25px; flex-wrap:wrap;">
+<div align="center">
 
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG1.jpg" width="280" alt="Project 1"
-       style="border-radius:12px; box-shadow:0 0 14px rgba(0,173,181,0.35);">
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG1.jpg" width="280" alt="Project 1" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.45);"/>
   
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg" width="330" alt="Main Project"
-       style="margin: 0 15px; border-radius:15px; box-shadow:0 0 26px rgba(0,255,255,0.55);">
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg" width="330" alt="Main Project" style="margin: 0 15px; border-radius:15px; box-shadow:0 4px 20px rgba(0,173,181,0.55);"/>
   
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png" width="280" alt="Project 3"
-       style="border-radius:12px; box-shadow:0 0 14px rgba(0,173,181,0.35);"/>
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png" width="280" alt="Project 3" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.45);"/>
 
 </div>
 
@@ -136,17 +175,14 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 
 <div align="center">
 
-  <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/output/github-contribution-grid-snake.svg"
-       alt="GitHub Snake Animation" width="100%" style="max-width: 900px; filter: drop-shadow(0 0 8px rgba(0,255,255,0.35));"/>
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
 
   <h3 style="color:#00ADB5; font-weight:600; margin-top:12px;">⭐ Always Learning — Always Building ⭐</h3>
   <sub style="color:gray;">Securing Tomorrow, One Line of Code at a Time.</sub>
 
   <br><br>
 
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg" width="160" alt="CSG Logo"
-       style="border-radius:15px; box-shadow:0 0 14px rgba(0,255,255,0.35);"/>
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg" width="160" alt="CSG Logo" style="border-radius:15px; box-shadow:0 2px 10px rgba(0,0,0,0.4);"/>
 
   <br><br>
 
