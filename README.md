@@ -1,54 +1,6 @@
 <!-- ==================== HEADER ==================== -->
 <div style="background: linear-gradient(180deg, #0f1115 0%, #1a1f27 100%); padding: 30px 20px; border-radius: 15px;">
 
-<!-- ====== تأثيرات الحركة والتوهج ====== -->
-<style>
-/* توهج ناعم نابض */
-@keyframes glowPulse {
-  0% { filter: drop-shadow(0 0 6px rgba(0,255,255,0.25)); }
-  50% { filter: drop-shadow(0 0 22px rgba(0,255,255,0.85)); }
-  100% { filter: drop-shadow(0 0 6px rgba(0,255,255,0.25)); }
-}
-
-/* تأثير وميض ليزر متحرك */
-@keyframes laserSweep {
-  0% { background-position: -150% 0; }
-  50% { background-position: 150% 0; }
-  100% { background-position: 150% 0; }
-}
-
-.banner-glow {
-  position: relative;
-  display: inline-block;
-  animation: glowPulse 4s infinite ease-in-out;
-  transition: transform 0.4s ease;
-}
-
-.banner-glow:hover {
-  transform: scale(1.02);
-}
-
-/* طبقة الليزر الشفافة فوق الصورة */
-.banner-glow::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(
-    120deg,
-    transparent 30%,
-    rgba(255,255,255,0.25) 50%,
-    transparent 70%
-  );
-  background-size: 200% 100%;
-  animation: laserSweep 6s infinite linear;
-  border-radius: 12px;
-  pointer-events: none;
-}
-</style>
-
 <div align="center">
 
   <!-- ======= توقيع رقمي (بانر رئيسي جديد) ======= -->
@@ -175,7 +127,8 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%"/>
+  <!-- حركة الثعبان -->
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" style="margin-top:10px;"/>
 
   <h3 style="color:#00ADB5; font-weight:600; margin-top:12px;">⭐ Always Learning — Always Building ⭐</h3>
   <sub style="color:gray;">Securing Tomorrow, One Line of Code at a Time.</sub>
@@ -190,4 +143,44 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 
 </div>
 
-</div>
+<!-- ==================== تأثيرات CSS ==================== -->
+<style>
+@keyframes glowPulse {
+  0% { filter: drop-shadow(0 0 6px rgba(0,255,255,0.25)); }
+  50% { filter: drop-shadow(0 0 22px rgba(0,255,255,0.85)); }
+  100% { filter: drop-shadow(0 0 6px rgba(0,255,255,0.25)); }
+}
+
+@keyframes laserSweep {
+  0% { background-position: -150% 0; }
+  50% { background-position: 150% 0; }
+  100% { background-position: 150% 0; }
+}
+
+.banner-glow {
+  position: relative;
+  display: inline-block;
+  animation: glowPulse 4s infinite ease-in-out;
+  transition: transform 0.4s ease;
+  border-radius: 15px;
+  overflow: hidden;
+}
+
+.banner-glow:hover {
+  transform: scale(1.02);
+}
+
+.banner-glow::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(120deg, transparent 30%, rgba(255,255,255,0.25) 50%, transparent 70%);
+  background-size: 200% 100%;
+  animation: laserSweep 6s infinite linear;
+  border-radius: 15px;
+  pointer-events: none;
+}
+</style>
