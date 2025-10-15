@@ -4,10 +4,10 @@
 
 <div align="center">
 
-  <!-- ======= توقيع رقمي (بانر رئيسي) ======= -->
-  <div style="padding:6px; border-radius:16px; background: linear-gradient(90deg, #00ADB5, #00696E); box-shadow: 0 0 28px rgba(0,173,181,0.65); display:inline-block; width:100%; max-width:1200px;">
-    <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/ALAA.png"
-         width="100%" alt="Alaa Mahmoud Digital Signature Banner" style="display:block; border-radius:12px;"/>
+  <!-- ======= توقيع رقمي (بانر رئيسي جديد) ======= -->
+  <div style="padding:10px; border-radius:16px; background: linear-gradient(90deg, #00ADB5, #00696E); box-shadow: 0 0 28px rgba(0,173,181,0.65); display:inline-block; width:100%; max-width:1100px;">
+    <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/alaa10.png"
+         width="85%" alt="Alaa Mahmoud Digital Signature Banner" style="display:block; border-radius:12px; filter: drop-shadow(0 0 8px rgba(255,255,255,0.25));"/>
   </div>
 
   <h2 style="color:#00ADB5; margin-top: 18px;">👋 Hi, I'm <span style="color:#00E0C7;">Alaa Mahmoud Mohamed</span></h2>
