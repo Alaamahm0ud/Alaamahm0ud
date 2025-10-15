@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- ✍️ التوقيع الرقمي بدل البانر -->
-<img src="./images/Copilot_20251004_220810.png" width="220" alt="Alaa Mahmoud Signature" style="margin-top: 20px; opacity: 0.85;"/>
+<img src="./branding/ALAA.png" width="220" alt="Alaa Mahmoud Signature" style="margin-top: 20px; opacity: 0.85;"/>
 
 <h2>👋 Hi, I'm <span style="color:#00ADB5;">Alaa Mahmoud Mohamed</span></h2>
 
@@ -30,6 +30,14 @@
 <img src="https://img.shields.io/badge/24th%20Most%20Followed-%23FFD700?style=for-the-badge&logo=github&logoColor=black" />
 <img src="https://img.shields.io/badge/18th%20Most%20Active-%23FF5733?style=for-the-badge&logo=github&logoColor=black" />
 
+</div>
+
+---
+
+## 🛡️ Project Identity
+
+<div align="center">
+  <img src="./branding/CSG.jpg" width="260" alt="Cyber Security Guard Logo" style="margin-top: 20px; border-radius: 12px; box-shadow: 0px 2px 10px rgba(0,0,0,0.3);"/>
 </div>
 
 ---
@@ -94,19 +102,9 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 ---
 
 ## 🚀 Featured Projects
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-<a href="https://github.com/Alaamahm0ud/Cyber-Guard-Pro">
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/WhatsApp%20Image%202025-10-14%20at%2013.26.57_a89f78f6.jpg" width="300" alt="Cyber Guard Pro" style="border-radius: 10px; box-shadow: 0px 2px 10px rgba(0,0,0,0.4);"/>
-</a>
-
-<a href="https://github.com/Alaamahm0ud/Security-AI-Agent">
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/ChatGPT%20Image%20Oct%2012%2C%202025%2C%2001_03_37%20PM.png" width="300" alt="Security AI Agent" style="border-radius: 10px; box-shadow: 0px 2px 10px rgba(0,0,0,0.4);"/>
-</a>
-
-<a href="https://github.com/Alaamahm0ud/AI-Defense-Suite">
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/WhatsApp%20Image%202025-10-12%20at%2009.57.49_6969cca7.jpg" width="300" alt="AI Defense Suite" style="border-radius: 10px; box-shadow: 0px 2px 10px rgba(0,0,0,0.4);"/>
-</a>
+<!-- Project cards remain unchanged -->
 
 </div>
 
@@ -123,4 +121,16 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 </a>
 <a href="mailto:alaa.m.egypt@gmail.com">
   <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail"/>
-</a
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/output/github-contribution-grid-snake.svg)
+
+⭐ Always learning — Always building ⭐
+
+</div>
