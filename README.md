@@ -1,8 +1,11 @@
 <!-- ==================== HEADER ==================== -->
 <div align="center">
 
-<!-- ✍️ التوقيع الرقمي بدل البانر -->
-<img src="./branding/ALAA.png" width="220" alt="Alaa Mahmoud Signature" style="margin-top: 20px; opacity: 0.85;"/>
+<!-- ✅ صورة البنر الرئيسية -->
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/ChatGPT%20Image%20Oct%2012%2C%202025%2C%2001_03_37%20PM.png" width="100%" alt="Alaa Mahmoud Banner"/>
+
+<!-- ✍️ التوقيع الرقمي أسفل البانر -->
+<img src="./branding/ALAA.png" width="220" alt="Alaa Mahmoud Signature" style="margin-top: -40px; margin-bottom: 10px; opacity: 0.85;"/>
 
 <h2>👋 Hi, I'm <span style="color:#00ADB5;">Alaa Mahmoud Mohamed</span></h2>
 
@@ -102,35 +105,15 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 ---
 
 ## 🚀 Featured Projects
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
 
-<!-- Project cards remain unchanged -->
-
-</div>
-
----
-
-## 🌐 Connect With Me
-<div align="center">
-
-<a href="https://www.linkedin.com/in/alaa-mahmoud-/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://github.com/Alaamahm0ud" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github"/>
-</a>
-<a href="mailto:alaa.m.egypt@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail"/>
+<a href="https://github.com/Alaamahm0ud/Cyber-Guard-Pro">
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/WhatsApp%20Image%202025-10-14%20at%2013.26.57_a89f78f6.jpg" width="300" alt="Cyber Guard Pro" style="border-radius: 10px; box-shadow: 0px 2px 10px rgba(0,0,0,0.4);"/>
 </a>
 
-</div>
+<a href="https://github.com/Alaamahm0ud/Security-AI-Agent">
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/ChatGPT%20Image%20Oct%2012%2C%202025%2C%2001_03_37%20PM.png" width="300" alt="Security AI Agent" style="border-radius: 10px; box-shadow: 0px 2px 10px rgba(0,0,0,0.4);"/>
+</a>
 
----
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/output/github-contribution-grid-snake.svg)
-
-⭐ Always learning — Always building ⭐
-
-</div>
+<a href="https://github.com/Alaamahm0ud/AI-Defense-Suite">
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/WhatsApp%
