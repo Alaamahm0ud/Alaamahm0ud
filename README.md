@@ -1,11 +1,10 @@
 <!-- ==================== HEADER ==================== -->
 
-<!-- خلفية متدرجة ناعمة لتعطي عمق بصري -->
 <div style="background: linear-gradient(180deg, #0f1115 0%, #1a1f27 100%); padding: 30px 20px; border-radius: 15px;">
 
 <div align="center">
 
-  <!-- ======= توقيع رقمي كبانر مع إطار نيوني آمن (inline styles) ======= -->
+  <!-- ======= توقيع رقمي (بانر رئيسي) ======= -->
   <div style="padding:6px; border-radius:16px; background: linear-gradient(90deg, #00ADB5, #00696E); box-shadow: 0 0 28px rgba(0,173,181,0.65); display:inline-block; width:100%; max-width:1200px;">
     <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/ALAA.png"
          width="100%" alt="Alaa Mahmoud Digital Signature Banner" style="display:block; border-radius:12px;"/>
@@ -29,11 +28,6 @@
     <a href="mailto:alaa.m.egypt@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/24th%20Most%20Followed-%23FFD700?style=for-the-badge&logo=github&logoColor=black" />
-    <img src="https://img.shields.io/badge/18th%20Most%20Active-%23FF5733?style=for-the-badge&logo=github&logoColor=black" />
   </p>
 
 </div>
@@ -100,19 +94,13 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 <hr style="opacity:0.28;">
 
 ## 🚀 Featured Projects
-<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
+<div align="center">
 
-  <a href="https://github.com/Alaamahm0ud/Cyber-Guard-Pro">
-    <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png" width="300" alt="Cyber Guard Pro" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.45);"/>
-  </a>
-
-  <a href="https://github.com/Alaamahm0ud/Security-AI-Agent">
-    <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.03.png" width="300" alt="Security AI Agent" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.45);"/>
-  </a>
-
-  <a href="https://github.com/Alaamahm0ud/AI-Defense-Suite">
-    <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.02.png" width="300" alt="AI Defense Suite" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.45);"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG1.jpg" width="280" alt="Project 1" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.45);"/>
+  
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg" width="330" alt="Main Project" style="margin: 0 15px; border-radius:15px; box-shadow:0 4px 20px rgba(0,173,181,0.55);"/>
+  
+  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png" width="280" alt="Project 3" style="border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.45);"/>
 
 </div>
 
@@ -144,7 +132,6 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 
   <br><br>
 
-  <!-- شعار البرنامج النهائي (مرة واحدة في النهاية) -->
   <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg" width="160" alt="CSG Logo" style="border-radius:15px; box-shadow:0 2px 10px rgba(0,0,0,0.4);"/>
 
   <br><br>
