@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alaa Mahmoud Mohamed
+# 👋 Hi, I'm Alaa Mahmoud Mohamed <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C_S_G.png" alt="C_S_G Logo" width="60" align="right" />
 
 ![Banner](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/alaa10.png)
 
