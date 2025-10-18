@@ -58,6 +58,17 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 
 ---
 
+## 🔗 Extended Projects
+| Cyber Guard Pro | Cyber Security Guard Pro | VPN GUARD (SCG) |
+|-----------------|--------------------------|-----------------|
+| [![Cyber Guard Pro](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG1.jpg)](https://github.com/Alaamahm0ud/cyber-guard-pro) | [![Cyber Security Guard Pro](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg)](https://github.com/Alaamahm0ud/cyber-security-guard-pro) | [![VPN GUARD (SCG)](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/VPN.CSG.png)](https://github.com/Alaamahm0ud/VPN-GUARD.-SCG-) |
+
+| LinkGarde (CSG) | Defense Stack |
+|-----------------|----------------|
+| [![LinkGarde](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/linkgarde.csg.png)](https://github.com/Alaamahm0ud/linkgarde.csg) | [![Defense Stack](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg)](https://github.com/Alaamahm0ud/Cyber-Security-Guard-Defense-Stack) |
+
+---
+
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alaa-mahmoud-/)
 [![GitHub](https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/Alaamahm0ud)
@@ -73,4 +84,7 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 ---
 
 ![CSG Logo](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg)  
-<sub style="color:gray;">Secured by CSG Framework — 2025</sub>
+<sub style="color:gray;">Secured by CSG Framework — 2025</sub>  
+
+![C_S_G Framework](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C_S_G.png)  
+<sub style="color:gray;">Advanced Cybersecurity Layer — 2025</sub>
