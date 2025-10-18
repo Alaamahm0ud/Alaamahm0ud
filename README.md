@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alaa Mahmoud Mohamed <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C_S_G.png" alt="C_S_G Logo" width="60" align="right" />
+# 👋 Hi, I'm Alaa Mahmoud Mohamed <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C_S_G.png" alt="C_S_G Logo" width="55" align="right" />
 
 ![Banner](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/alaa10.png)
 
@@ -52,20 +52,20 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 ---
 
 ## 🚀 Featured Projects
-| Project 1 | Main Project | Project 3 |
-|-----------|-------------|-----------|
-| ![Project 1](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG1.jpg) | ![Main Project](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg) | ![Project 3](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png) |
+| Cyber Security Guard | VPN GUARD (SCG) | LinkGarde (CSG) |
+|----------------------|-----------------|-----------------|
+| ![CSG](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg) | ![VPN GUARD](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png) | ![LinkGarde](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/linkgarde.csg.png) |
 
 ---
 
 ## 🔗 Extended Projects
-| Cyber Guard Pro | Cyber Security Guard Pro | VPN GUARD (SCG) |
-|-----------------|--------------------------|-----------------|
-| [![Cyber Guard Pro](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG1.jpg)](https://github.com/Alaamahm0ud/cyber-guard-pro) | [![Cyber Security Guard Pro](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg)](https://github.com/Alaamahm0ud/cyber-security-guard-pro) | [![VPN GUARD (SCG)](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/VPN.CSG.png)](https://github.com/Alaamahm0ud/VPN-GUARD.-SCG-) |
+| Cyber Guard Pro | Cyber Defense Stack |
+|-----------------|---------------------|
+| [![Cyber Guard Pro](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG1.jpg)](https://github.com/Alaamahm0ud/cyber-guard-pro) | [![Defense Stack](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png)](https://github.com/Alaamahm0ud/Cyber-Security-Guard-Defense-Stack) |
 
-| LinkGarde (CSG) | Defense Stack |
-|-----------------|----------------|
-| [![LinkGarde](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/linkgarde.csg.png)](https://github.com/Alaamahm0ud/linkgarde.csg) | [![Defense Stack](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg)](https://github.com/Alaamahm0ud/Cyber-Security-Guard-Defense-Stack) |
+| Cyber Security Guard Pro | VPN GUARD (SCG) |
+|---------------------------|----------------|
+| [![CSG Pro](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg)](https://github.com/Alaamahm0ud/cyber-security-guard-pro) | [![VPN Guard](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png)](https://github.com/Alaamahm0ud/VPN-GUARD.-SCG-) |
 
 ---
 
@@ -83,8 +83,5 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 
 ---
 
-![CSG Logo](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg)  
-<sub style="color:gray;">Secured by CSG Framework — 2025</sub>  
-
-![C_S_G Framework](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C_S_G.png)  
-<sub style="color:gray;">Advanced Cybersecurity Layer — 2025</sub>
+![CSG Framework](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C_S_G.png)  
+<sub style="color:gray;">Secured by CSG Framework — 2025</sub>
