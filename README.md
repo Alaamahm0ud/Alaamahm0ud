@@ -52,20 +52,17 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 ---
 
 ## 🚀 Featured Projects
-| Cyber Security Guard | VPN GUARD (SCG) | LinkGarde (CSG) |
-|----------------------|-----------------|-----------------|
-| ![CSG](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg) | ![VPN GUARD](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png) | ![LinkGarde](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/linkgarde.csg.png) |
+
+| Cyber Security Guard (Main) | VPN GUARD (SCG) | LinkGarde (CSG) | Cyber Guard Framework |
+|-----------------------------|-----------------|-----------------|-----------------------|
+| ![CSG](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg) | ![VPN GUARD](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/VPN.CSG.png) | ![LinkGarde](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/linkgarde.csg.png) | ![Cyber Guard](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C_S_G.png) |
 
 ---
 
-## 🔗 Extended Projects
-| Cyber Guard Pro | Cyber Defense Stack |
-|-----------------|---------------------|
-| [![Cyber Guard Pro](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG1.jpg)](https://github.com/Alaamahm0ud/cyber-guard-pro) | [![Defense Stack](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png)](https://github.com/Alaamahm0ud/Cyber-Security-Guard-Defense-Stack) |
-
-| Cyber Security Guard Pro | VPN GUARD (SCG) |
-|---------------------------|----------------|
-| [![CSG Pro](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg)](https://github.com/Alaamahm0ud/cyber-security-guard-pro) | [![VPN Guard](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png)](https://github.com/Alaamahm0ud/VPN-GUARD.-SCG-) |
+## 🔗 Extended Visuals
+| Visual 1 | Visual 2 | Visual 3 |
+|-----------|-----------|-----------|
+| ![CSG.04](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png) | ![CSG1](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG1.jpg) | ![CSG.03](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.03.png) |
 
 ---
 
@@ -83,5 +80,5 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 
 ---
 
-![CSG Framework](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C_S_G.png)  
+![Digital Signature](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/ALAA.png)  
 <sub style="color:gray;">Secured by CSG Framework — 2025</sub>
