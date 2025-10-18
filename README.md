@@ -82,3 +82,19 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 
 ![Digital Signature](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/ALAA.png)  
 <sub style="color:gray;">Secured by CSG Framework — 2025</sub>
+
+
+## 🖼️ Branding & Visual Identity
+
+| Project | Logo | Description |
+|----------|------|--------------|
+| **Cyber Security Guard (CSG)** | ![CSG](branding/CSG.jpg) | النظام الأمني الأساسي متعدد الطبقات. |
+| **Cyber Guard** | ![Cyber Guard](branding/C_S_G.png) | واجهة الحماية الذكية المخصصة للمراقبة والتحليل. |
+| **VPN GUARD (SCG)** | ![VPN Guard](branding/VPN.CSG.png) | منصة الاتصال الآمن VPN المرتبطة بمنظومة CSG. |
+| **LinkGarde.CSG** | ![LinkGarde](branding/linkgarde.csg.png) | أداة فحص وتحليل الروابط والمصادر الخارجية. |
+
+**Digital Signature:**  
+![Alaa](branding/ALAA.png)
+
+> 🧠 جميع العلامات والشعارات تابعة للمشروعات الأمنية الأخلاقية ضمن منظومة CSG.
+
