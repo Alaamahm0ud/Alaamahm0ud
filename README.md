@@ -80,10 +80,6 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 
 ---
 
-![Digital Signature](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/ALAA.png)  
-<sub style="color:gray;">Secured by CSG Framework — 2025</sub>
-
-
 ## 🖼️ Branding & Visual Identity
 
 | Project | Logo | Description |
@@ -93,8 +89,10 @@ I create secure, open-source tools tailored for Arabic-speaking professionals, b
 | **VPN GUARD (SCG)** | ![VPN Guard](branding/VPN.CSG.png) | منصة الاتصال الآمن VPN المرتبطة بمنظومة CSG. |
 | **LinkGarde.CSG** | ![LinkGarde](branding/linkgarde.csg.png) | أداة فحص وتحليل الروابط والمصادر الخارجية. |
 
-**Digital Signature:**  
-![Alaa](branding/ALAA.png)
+---
+
+### 🔏 Digital Signature  
+![Alaa](branding/ALAA.png)  
+<sub style="color:gray;">Secured by CSG Framework — 2025</sub>
 
 > 🧠 جميع العلامات والشعارات تابعة للمشروعات الأمنية الأخلاقية ضمن منظومة CSG.
-
