@@ -10,8 +10,10 @@
 ---
 
 ## 🧠 About Me
-Cybersecurity developer specializing in AI-driven defensive systems.
-I create secure, open-source tools that combine human expertise with machine learning to enhance threat detection and strengthen digital defense capabilities.
+I’m a cybersecurity developer passionate about creating intelligent defense systems powered by artificial intelligence and developing open-source tools that contribute to building a safer, more reliable digital environment.
+I believe that combining human expertise with machine learning is the path toward a more adaptive and aware form of cybersecurity, capable of confronting ever-evolving threats.
+My work focuses on transforming complex security concepts into practical solutions that enhance protection efficiency while upholding transparency and user safety in the digital space.
+
 ---
 
 ## ⚙️ Technical Stack
