@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;AI+Tools+Developer;Ethical+Hacker;Defensive+Systems+Engineer;Open-Source+Security+Architect)](https://readme-typing-svg.demolab.com/demo/?lines=Cybersecurity+Analyst;AI+Tools+Developer;Ethical+Hacker;Defensive+Systems+Engineer;Open-Source+Security+Architect)
 
 📍 Cairo, Egypt  •  💬 “Security through Knowledge — Knowledge through Sharing”  
-🧩 Part of the **CSG Defense Stack Initiative** (Ethical, Private, AI-Driven Security)
+🧩 Part of the CSG Defense Stack Initiative (Ethical, Private, AI-Driven Security)
 
 ---
 
@@ -65,9 +65,9 @@ My work focuses on transforming complex security concepts into practical solutio
 
 | Cyber Security Guard (Main) | VPN GUARD (SCG) | LinkGarde (CSG) | Cyber Guard Framework |
 |-----------------------------|-----------------|-----------------|-----------------------|
-| ![CSG](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg) | ![VPN GUARD](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/VPN.CSG.png) | ![LinkGarde](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/linkgarde.csg.png) | ![Cyber Guard](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C_S_G.png) |
+| ![CSG](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_01.png.jpg) | ![VPN GUARD](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_03.png.jpg) | ![LinkGarde](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_04.png.jpg) | ![Cyber Guard](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_02.png.jpg) |
 
-> 🧠 All projects are part of the **Cyber Security Guard Ecosystem (CSG Defense Stack)** — built with privacy, efficiency, and local-first design in mind.
+> 🧠 All projects are part of the Cyber Security Guard Ecosystem (CSG Defense Stack) — built with privacy, efficiency, and local-first design in mind.
 
 ---
 
@@ -96,10 +96,10 @@ My work focuses on transforming complex security concepts into practical solutio
 
 | Project | Logo | Description |
 |----------|------|--------------|
-| **Cyber Security Guard (CSG)** | ![CSG](branding/CSG.jpg) | النظام الأمني الأساسي متعدد الطبقات. |
-| **Cyber Guard** | ![Cyber Guard](branding/C_S_G.png) | واجهة الحماية الذكية المخصصة للمراقبة والتحليل. |
-| **VPN GUARD (SCG)** | ![VPN Guard](branding/VPN.CSG.png) | منصة الاتصال الآمن VPN المرتبطة بمنظومة CSG. |
-| **LinkGarde.CSG** | ![LinkGarde](branding/linkgarde.csg.png) | أداة فحص وتحليل الروابط والمصادر الخارجية. |
+| Cyber Security Guard (CSG) | ![CSG](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_01.png.jpg) | النظام الأمني الأساسي متعدد الطبقات. |
+| Cyber Guard | ![Cyber Guard](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_02.png.jpg) | واجهة الحماية الذكية المخصصة للمراقبة والتحليل. |
+| VPN GUARD (SCG) | ![VPN Guard](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_03.png.jpg) | منصة الاتصال الآمن VPN المرتبطة بمنظومة CSG. |
+| LinkGarde.CSG | ![LinkGarde](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_04.png.jpg) | أداة فحص وتحليل الروابط والمصادر الخارجية. |
 
 ---
 
@@ -108,5 +108,4 @@ My work focuses on transforming complex security concepts into practical solutio
 <sub style="color:gray;">Secured by CSG Framework — 2025</sub>
 
 > 🧩 Visuals designed & optimized by Alaa Mahmoud Mohamed.  
-> 🧠 Ethical AI & Cybersecurity Tools — *Empowering real defense.*
-
+> 🧠 Ethical AI & Cybersecurity Tools — Empowering real defense.
