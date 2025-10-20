@@ -52,11 +52,9 @@ My work focuses on transforming complex security concepts into practical solutio
 
 ## 📊 GitHub Stats & Highlights
 <div align="center">
-  
 ![Stats](https://github-readme-stats.vercel.app/api?username=Alaamahm0ud&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaamahm0ud&layout=compact&theme=radical&hide_border=true)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Alaamahm0ud&theme=onedark&margin-w=10)
-
 </div>
 
 ---
@@ -71,19 +69,21 @@ My work focuses on transforming complex security concepts into practical solutio
 
 ---
 
-## 🔗 Extended Visuals
-| Left | Center | Right |
-|------|--------|-------|
-| ![01](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/01.png) | ![CSG.022](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.022.jpg) | ![02](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/02.png) |
+## 🔗 Extended Visuals (Top Thumbnails)
+
+![01](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/01.png) ![CSG.022](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.022.jpg) ![C_S_G](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C_S_G.png)
 
 ---
 
-## 🖼️ Middle Visuals
-<div align="center">
-  ![CSG.02](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.02.jpg)
-  ![CSG000](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG000.jpg)
-  ![C-S-G](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C-S-G.jpg)
-</div>
+## 🖼️ Middle Row
+
+![CSG.02](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.02.jpg) ![CSG000](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG000.jpg) ![C-S-G](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C-S-G.jpg)
+
+---
+
+## 🔗 Bottom Row
+
+![CSG.03](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.03.png) ![CSG1](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG1.jpg) ![CSG.04](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png)
 
 ---
 
