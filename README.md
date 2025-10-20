@@ -106,16 +106,17 @@ My work focuses on transforming complex security concepts into practical solutio
 ### 🖼️ Additional Visuals  
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg" width="450">
-<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/csg.1.png" width="450">
-<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.02.jpg" width="450">
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C_S_G.png" width="380">
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.02.jpg" width="380">
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.023.jpg" width="380">
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.022.jpg" width="380">
 
 </div>
 
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG000.jpg" width="400">
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG000.jpg" width="420">
 </div>
 
 ---
