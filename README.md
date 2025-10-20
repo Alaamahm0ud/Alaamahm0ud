@@ -110,15 +110,4 @@ I focus on transforming complex security concepts into practical solutions that 
 | Project | Logo | Description |
 |----------|------|--------------|
 | Cyber Security Guard (CSG) | ![CSG](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_01.png.jpg) | النظام الأمني الأساسي متعدد الطبقات. |
-| Cyber Guard | ![Cyber Guard](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_02.png.jpg) | واجهة الحماية الذكية المخصصة للمراقبة والتحليل. |
-| VPN GUARD (SCG) | ![VPN Guard](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_03.png.jpg) | منصة الاتصال الآمن VPN المرتبطة بمنظومة CSG. |
-| LinkGarde.CSG | ![LinkGarde](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_04.png.jpg) | أداة فحص وتحليل الروابط والمصادر الخارجية. |
-
----
-
-### 🔏 Digital Signature  
-![Alaa](branding/ALAA.png)  
-<sub style="color:gray;">Secured by CSG Framework — 2025</sub>
-
-> 🧩 Visuals designed & optimized by Alaa Mahmoud Mohamed.  
-> 🧠 Ethical AI & Cybersecurity Tools — Empowering real defense.
+| Cyber Guard | ![Cyber Guard](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0
