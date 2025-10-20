@@ -91,9 +91,12 @@ I focus on transforming complex security concepts into practical solutions that 
 ### 🖼️ Central Highlight
 <div align="center">
 <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG000.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C-S-G.jpg" width="300" />
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.02.jpg" width="300" />
 </div>
 
 ---
+
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alaa-mahmoud-/)
