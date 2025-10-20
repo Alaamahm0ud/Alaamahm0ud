@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alaa Mahmoud Mohamed <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C_S_G.png" alt="C_S_G Logo" width="55" align="right" />
+# 👋 Hi, I'm Alaa Mahmoud Mohamed
 
 ![Banner](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/alaa10.png)
 
@@ -72,9 +72,18 @@ My work focuses on transforming complex security concepts into practical solutio
 ---
 
 ## 🔗 Extended Visuals
-| Visual 1 | Visual 2 | Visual 3 |
-|-----------|-----------|-----------|
-| ![CSG.04](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png) | ![CSG1](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG1.jpg) | ![CSG.03](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.03.png) |
+| Left | Center | Right |
+|------|--------|-------|
+| ![01](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/01.png) | ![CSG.022](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.022.jpg) | ![02](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/02.png) |
+
+---
+
+## 🖼️ Middle Visuals
+<div align="center">
+  ![CSG.02](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.02.jpg)
+  ![CSG000](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG000.jpg)
+  ![C-S-G](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C-S-G.jpg)
+</div>
 
 ---
 
@@ -100,24 +109,6 @@ My work focuses on transforming complex security concepts into practical solutio
 | Cyber Guard | ![Cyber Guard](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_02.png.jpg) | واجهة الحماية الذكية المخصصة للمراقبة والتحليل. |
 | VPN GUARD (SCG) | ![VPN Guard](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_03.png.jpg) | منصة الاتصال الآمن VPN المرتبطة بمنظومة CSG. |
 | LinkGarde.CSG | ![LinkGarde](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_04.png.jpg) | أداة فحص وتحليل الروابط والمصادر الخارجية. |
-
----
-
-### 🖼️ Additional Visuals  
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C_S_G.png" width="380">
-<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.02.jpg" width="380">
-<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.023.jpg" width="380">
-<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.022.jpg" width="380">
-
-</div>
-
----
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG000.jpg" width="420">
-</div>
 
 ---
 
