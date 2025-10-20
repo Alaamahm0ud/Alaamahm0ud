@@ -10,9 +10,8 @@
 ---
 
 ## 🧠 About Me
-Cybersecurity developer specializing in **AI-driven defensive systems** and **bilingual documentation**.  
-I create secure, open-source tools tailored for Arabic-speaking professionals — bridging human insight and machine learning in threat defense.
-
+Cybersecurity developer specializing in AI-driven defensive systems.
+I create secure, open-source tools that combine human expertise with machine learning to enhance threat detection and strengthen digital defense capabilities.
 ---
 
 ## ⚙️ Technical Stack
