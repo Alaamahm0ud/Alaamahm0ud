@@ -10,8 +10,8 @@
 ---
 
 ## 🧠 About Me
-I’m a cybersecurity developer passionate about creating intelligent defense systems powered by artificial intelligence and developing open-source tools that contribute to building a safer, more reliable digital environment.  
-I believe that combining human expertise with machine learning is the path toward a more adaptive and aware form of cybersecurity, capable of confronting ever-evolving threats.  
+I’m a cybersecurity developer passionate about creating intelligent defense systems powered by artificial intelligence and developing open-source tools that contribute to building a safer, more reliable digital environment.
+I believe that combining human expertise with machine learning is the path toward a more adaptive and aware form of cybersecurity, capable of confronting ever-evolving threats.
 My work focuses on transforming complex security concepts into practical solutions that enhance protection efficiency while upholding transparency and user safety in the digital space.
 
 ---
@@ -52,7 +52,7 @@ My work focuses on transforming complex security concepts into practical solutio
 
 ## 📊 GitHub Stats & Highlights
 <div align="center">
-
+  
 ![Stats](https://github-readme-stats.vercel.app/api?username=Alaamahm0ud&show_icons=true&theme=radical&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaamahm0ud&layout=compact&theme=radical&hide_border=true)
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Alaamahm0ud&theme=onedark&margin-w=10)
@@ -74,11 +74,7 @@ My work focuses on transforming complex security concepts into practical solutio
 ## 🔗 Extended Visuals
 | Visual 1 | Visual 2 | Visual 3 |
 |-----------|-----------|-----------|
-| ![CSG.04](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg) | ![CSG1](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C_S_G.png) | ![CSG.03](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.02.jpg) |
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG000.jpg" width="400">
-</div>
+| ![CSG.04](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png) | ![CSG1](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG1.jpg) | ![CSG.03](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.03.png) |
 
 ---
 
@@ -107,8 +103,25 @@ My work focuses on transforming complex security concepts into practical solutio
 
 ---
 
+### 🖼️ Additional Visuals  
+<div align="center">
+  
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.jpg" width="450">
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/csg.1.png" width="450">
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.02.jpg" width="450">
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG000.jpg" width="400">
+</div>
+
+---
+
 ### 🔏 Digital Signature  
-![Alaa](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/ALAA.png)  
+![Alaa](branding/ALAA.png)  
 <sub style="color:gray;">Secured by CSG Framework — 2025</sub>
 
 > 🧩 Visuals designed & optimized by Alaa Mahmoud Mohamed.  
