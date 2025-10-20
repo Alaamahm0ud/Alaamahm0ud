@@ -50,11 +50,15 @@ I focus on transforming complex security concepts into practical solutions that 
 ---
 
 ## 📊 GitHub Stats & Highlights
-<div align="center">
-![Stats](https://github-readme-stats.vercel.app/api?username=Alaamahm0ud&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaamahm0ud&layout=compact&theme=radical&hide_border=true)
-![Trophies](https://github-profile-trophy.vercel.app/?username=Alaamahm0ud&theme=onedark&margin-w=10)
-</div>
+## 📊 GitHub Stats & Highlights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alaamahm0ud&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alaamahm0ud&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alaamahm0ud&theme=onedark&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -110,4 +114,15 @@ I focus on transforming complex security concepts into practical solutions that 
 | Project | Logo | Description |
 |----------|------|--------------|
 | Cyber Security Guard (CSG) | ![CSG](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_01.png.jpg) | النظام الأمني الأساسي متعدد الطبقات. |
-| Cyber Guard | ![Cyber Guard](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0
+| Cyber Guard | ![Cyber Guard](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_02.png.jpg) | واجهة الحماية الذكية المخصصة للمراقبة والتحليل. |
+| VPN GUARD (SCG) | ![VPN Guard](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_03.png.jpg) | منصة الاتصال الآمن VPN المرتبطة بمنظومة CSG. |
+| LinkGarde.CSG | ![LinkGarde](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/visual_hobby_2025_04.png.jpg) | أداة فحص وتحليل الروابط والمصادر الخارجية. |
+
+---
+
+### 🔏 Digital Signature  
+![Alaa](branding/ALAA.png)  
+<sub style="color:gray;">Secured by CSG Framework — 2025</sub>
+
+> 🧩 Visuals designed & optimized by Alaa Mahmoud Mohamed.  
+> 🧠 Ethical AI & Cybersecurity Tools — Empowering real defense.
