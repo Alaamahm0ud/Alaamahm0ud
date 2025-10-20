@@ -4,15 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&weight=600&size=24&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Cybersecurity+Analyst;AI+Tools+Developer;Ethical+Hacker;Defensive+Systems+Engineer;Open-Source+Security+Architect)](https://readme-typing-svg.demolab.com/demo/?lines=Cybersecurity+Analyst;AI+Tools+Developer;Ethical+Hacker;Defensive+Systems+Engineer;Open-Source+Security+Architect)
 
-📍 Cairo, Egypt  •  💬 “Security through Knowledge — Knowledge through Sharing”  
+📍 Cairo, Egypt • 💬 “Security through Knowledge — Knowledge through Sharing”  
 🧩 Part of the CSG Defense Stack Initiative (Ethical, Private, AI-Driven Security)
 
 ---
 
 ## 🧠 About Me
-I’m a cybersecurity developer passionate about creating intelligent defense systems powered by artificial intelligence and developing open-source tools that contribute to building a safer, more reliable digital environment.
-I believe that combining human expertise with machine learning is the path toward a more adaptive and aware form of cybersecurity, capable of confronting ever-evolving threats.
-My work focuses on transforming complex security concepts into practical solutions that enhance protection efficiency while upholding transparency and user safety in the digital space.
+I’m a cybersecurity developer passionate about creating intelligent defense systems powered by AI and developing open-source tools for a safer, more reliable digital environment.
+I focus on transforming complex security concepts into practical solutions that enhance protection while upholding transparency and user safety.
 
 ---
 
@@ -69,21 +68,26 @@ My work focuses on transforming complex security concepts into practical solutio
 
 ---
 
-## 🔗 Extended Visuals (Top Thumbnails)
+## 🔗 Extended Visuals
 
-![01](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/01.png) ![CSG.022](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.022.jpg) ![C_S_G](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C_S_G.png)
+### 👀 Special Alignment
+<div align="center">
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/01.png" width="120" /> 
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.022.jpg" width="120" /> 
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C_S_G.png" width="120" /> 
+</div>
 
----
+### 🎨 Other Visuals
+<div align="center">
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.03.png" width="200" /> 
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG1.jpg" width="200" /> 
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png" width="200" /> 
+</div>
 
-## 🖼️ Middle Row
-
-![CSG.02](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.02.jpg) ![CSG000](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG000.jpg) ![C-S-G](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/C-S-G.jpg)
-
----
-
-## 🔗 Bottom Row
-
-![CSG.03](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.03.png) ![CSG1](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG1.jpg) ![CSG.04](https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG.04.png)
+### 🖼️ Central Highlight
+<div align="center">
+<img src="https://raw.githubusercontent.com/Alaamahm0ud/Alaamahm0ud/main/branding/CSG000.jpg" width="300" />
+</div>
 
 ---
 
